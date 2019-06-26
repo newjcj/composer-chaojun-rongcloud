@@ -15,7 +15,7 @@ use RongCloud\Lib\Push\Push;
 error_reporting(0);
 if (!defined('RONGCLOUOD_ROOT')) {
     define('RONGCLOUOD_ROOT', dirname(__FILE__) . '/');
-    require('Autoloader.php');
+    //require('Autoloader.php');
 }
 
 class RongCloud
