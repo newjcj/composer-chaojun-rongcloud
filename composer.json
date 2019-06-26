@@ -1,0 +1,17 @@
+{
+    "name": "chaojun/rongcloud",
+    "description": "chaojun rong cloud",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jcj",
+            "email": "18666015093@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RongCloud\\": "RongCloud/"
+        }
+    }
+}
